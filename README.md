@@ -6,7 +6,7 @@
 
 1.0.0
 
-Created: March 23, 2016  9:54:50 EDT | Last modified: March 23, 2016  4:09:12 EDT
+Created: March 23, 2016  9:54:50 EDT | Last modified: March 23, 2016  8:55:15 EDT
 
 ## Permalinks
 
@@ -31,6 +31,10 @@ TBD
 ### See below
 
 
+  Series AA Preferred Stock Financing Term Sheet - 
+
+  
+
   Series AA Preferred Stock Subscription Agreement - N/A
 
   N/A
@@ -48,10 +52,6 @@ TBD
   N/A
 
   Stockholder Action by Written Consent - Series AA Preferred Stock Financing - appoint director - N/A
-
-  N/A
-
-  Series AA Preferred Stock Financing Term Sheet - N/A
 
   N/A
 
@@ -59,6 +59,8 @@ TBD
 ## Disclaimer
 
 
+  Series AA Preferred Stock Financing Term Sheet - 
+
   Series AA Preferred Stock Subscription Agreement - N/A
 
   Series AA Preferred Stock Financing Checklist - N/A
@@ -68,5 +70,3 @@ TBD
   Bylaws - Series AA Preferred Stock Financing - N/A
 
   Stockholder Action by Written Consent - Series AA Preferred Stock Financing - appoint director - N/A
-
-  Series AA Preferred Stock Financing Term Sheet - N/A

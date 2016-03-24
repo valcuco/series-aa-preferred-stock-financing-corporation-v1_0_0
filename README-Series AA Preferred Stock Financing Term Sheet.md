@@ -6,7 +6,7 @@
 
 1.0.0
 
-Created: March 23, 2016  9:59:48 EDT | Last modified: March 23, 2016  8:43:45 EDT
+Created: March 23, 2016  9:59:48 EDT | Last modified: March 24, 2016 11:20:56 EDT
 
 ## Permalinks
 
@@ -20,7 +20,7 @@ Series AA Preferred Stock Financing Term Sheet - TechStars.org open-sourced form
 
 ## Notes
 
-None
+
 
 ## Contributors
 
@@ -28,13 +28,9 @@ TBD
 
 ## License
 
-### Not specified
+### 
 
-
-  Not specified
 
 
 ## Disclaimer
 
-
-  Not specified
