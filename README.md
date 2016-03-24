@@ -6,7 +6,7 @@
 
 1.0.0
 
-Created: March 23, 2016  9:54:50 EDT | Last modified: March 23, 2016  4:08:52 EDT
+Created: March 23, 2016  9:54:50 EDT | Last modified: March 23, 2016  4:09:12 EDT
 
 ## Permalinks
 
@@ -39,10 +39,6 @@ TBD
 
   N/A
 
-  Series AA Preferred Stock Financing Term Sheet - N/A
-
-  N/A
-
   Amended and Restated Certificate of Incorporation - Series AA Preferred Stock Financing - N/A
 
   N/A
@@ -52,6 +48,10 @@ TBD
   N/A
 
   Stockholder Action by Written Consent - Series AA Preferred Stock Financing - appoint director - N/A
+
+  N/A
+
+  Series AA Preferred Stock Financing Term Sheet - N/A
 
   N/A
 
@@ -63,10 +63,10 @@ TBD
 
   Series AA Preferred Stock Financing Checklist - N/A
 
-  Series AA Preferred Stock Financing Term Sheet - N/A
-
   Amended and Restated Certificate of Incorporation - Series AA Preferred Stock Financing - N/A
 
   Bylaws - Series AA Preferred Stock Financing - N/A
 
   Stockholder Action by Written Consent - Series AA Preferred Stock Financing - appoint director - N/A
+
+  Series AA Preferred Stock Financing Term Sheet - N/A
